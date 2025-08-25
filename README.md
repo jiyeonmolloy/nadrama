@@ -1,3 +1,8 @@
+[![Publish Charts](https://github.com/nadrama-com/nadrama/actions/workflows/publish-charts.yaml/badge.svg)](https://github.com/nadrama-com/nadrama/actions/workflows/publish-charts.yaml)
+[![RBAC Tests](https://github.com/nadrama-com/nadrama/actions/workflows/rbac-tests.yml/badge.svg)](https://github.com/nadrama-com/nadrama/actions/workflows/rbac-tests.yml)
+[![License](https://img.shields.io/github/license/nadrama-com/nadrama.svg)](./LICENSE)
+
+
 # Nadrama - Open Source container platform
 
 Want to quickly deploy apps, containers, and agents on Kubernetes? The Nadrama platform is designed to make it easy.
