@@ -19,7 +19,8 @@ jobs:
       - name: Set up Kind
         uses: helm/kind-action@v1.12.0
         with:
-          config: kind.yaml
+          config: kind/kind-ci.yaml
+          cluster_name: nadrama
 
         # Add tests here
 

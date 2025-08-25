@@ -145,8 +145,10 @@ We use [Kind](https://kind.sigs.k8s.io/) to test the configuration locally.
 Start the Kind cluster with:
 
 ```
-kind create cluster --config kind.yaml
+kind create cluster --config kind/kind.yaml
 ```
+
+You can now run your install and test scripts.
 
 Delete the Kind cluster with:
 
